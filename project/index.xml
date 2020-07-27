@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hufce5a534cdba7fb4bf33bfc23fcec932_7781_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>Livetavla</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Basert på en egen ide, laget jeg i samarbeid med Jan Even Eriksen Djupvik fra enhet for virksomhetsdata ved SSHF Kristiansand en elektronisk tavle som viser oversikt over belegg i real-time for sykehusene i Kristiansand, Flekkefjord og Arendal. Per nå brukes den ved alle disse sykehusene med gode tilbakemeldinger.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DIPS for smartinger</title>
       <link>/project/external-project/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Livetavla</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Basert på en egen ide, laget jeg i samarbeid med Jan Even Eriksen Djupvik fra enhet for virksomhetsdata ved SSHF Kristiansand en elektronisk tavle som viser oversikt over belegg i real-time for sykehusene i Kristiansand, Flekkefjord og Arendal. Per nå brukes den ved alle dissesykehusene med gode tilbakemeldinger.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

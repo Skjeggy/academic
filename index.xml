@@ -77,6 +77,15 @@
     </item>
     
     <item>
+      <title>Livetavla</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Basert på en egen ide, laget jeg i samarbeid med Jan Even Eriksen Djupvik fra enhet for virksomhetsdata ved SSHF Kristiansand en elektronisk tavle som viser oversikt over belegg i real-time for sykehusene i Kristiansand, Flekkefjord og Arendal. Per nå brukes den ved alle disse sykehusene med gode tilbakemeldinger.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DIPS for smartinger</title>
       <link>/project/external-project/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
@@ -532,15 +541,6 @@ Three
 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Livetavla</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Basert på en egen ide, laget jeg i samarbeid med Jan Even Eriksen Djupvik fra enhet for virksomhetsdata ved SSHF Kristiansand en elektronisk tavle som viser oversikt over belegg i real-time for sykehusene i Kristiansand, Flekkefjord og Arendal. Per nå brukes den ved alle dissesykehusene med gode tilbakemeldinger.&lt;/p&gt;
 </description>
     </item>
     
