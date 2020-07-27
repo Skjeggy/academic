@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | Academic</title>
-    <link>/courses/</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <title>Courses | Sondre Sverd Rekdal</title>
+    <link>https://sondrerekdal.netlify.app/courses/</link>
+      <atom:link href="https://sondrerekdal.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/logo_hufce5a534cdba7fb4bf33bfc23fcec932_7781_300x300_fit_lanczos_2.png</url>
+      <url>https://sondrerekdal.netlify.app/images/logo_hufce5a534cdba7fb4bf33bfc23fcec932_7781_300x300_fit_lanczos_2.png</url>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>https://sondrerekdal.netlify.app/courses/</link>
     </image>
     
   </channel>
