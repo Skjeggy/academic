@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hufce5a534cdba7fb4bf33bfc23fcec932_7781_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>DIPS for smartinger</title>
+      <link>/project/external-project/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livetavla</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Basert på en egen ide, laget jeg i samarbeid med Jan Even Eriksen Djupvik fra enhet for virksomhetsdata ved SSHF Kristiansand en elektronisk tavle som viser oversikt over belegg i real-time for sykehusene i Kristiansand, Flekkefjord og Arendal. Per nå brukes den ved alle dissesykehusene med gode tilbakemeldinger.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
